@@ -69,4 +69,4 @@ Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais in
 
 ---
 
-Desenvolvido por [Mateus Soares](https://github.com/soares2107)
+Desenvolvido por [Joao Gabriel Soares](https://github.com/soares2107)
